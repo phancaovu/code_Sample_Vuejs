@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'UTM American Sans';
+    src: url('UTM/UTM-American.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'UTM Neo Sans Intel';
+    src: url('UTM/UTM-Neo.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'UTM Helve';
+    src: url('UTM/UTM-Helve.ttf') format('truetype');
+}
+html, body {
+    font-family: 'UTM American Sans';
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    font-family: 'UTM American Sans';
+    font-weight: inherit;
+}

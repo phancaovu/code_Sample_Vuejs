@@ -14,7 +14,7 @@
                         v-model="reNewPassword"
                         type="password" class="form-control" placeholder="Xác nhận mật khẩu mới" required="">
                     <div class="ass1-login__send justify-content-center">
-                        <button type="submit" class="ass1-btn">Gửi</button>
+                        <button type="submit" class="ass1-btn">Gửi 111111</button>
                     </div>
                 </form>
             </div>
